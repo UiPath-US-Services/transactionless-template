@@ -1,5 +1,5 @@
-# transactionless-ref
-REFramework with the transactional portion removed.
+# Transactionless Template
+REFramework files but with the state machine removed.
 Use this for simple processes that do not required the transaction isolation given by the standard REFramework. 
 
 ## Usage
