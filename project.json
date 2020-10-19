@@ -1,6 +1,6 @@
 {
-  "name": "TransactionlessREF",
-  "description": "Robotic Enterprise Framework",
+  "name": "TransactionlessTemplate",
+  "description": "Edit me.",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.8.6]",
